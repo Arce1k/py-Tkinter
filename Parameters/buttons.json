@@ -1,0 +1,19 @@
+{
+    "window": {
+        "window_title": "Nueva Ventana",
+        "window_width": 300,
+        "window_height": 300,
+        "window_x": 726,
+        "window_y": 272
+    },
+    "buttons": [
+        {
+            "type": "Button",
+            "text": "a",
+            "x": 133,
+            "y": 117,
+            "link": "youtube.com",
+            "color": "red"
+        }
+    ]
+}
